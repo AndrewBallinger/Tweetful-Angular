@@ -134,6 +134,43 @@ nav {
   margin-top: 15px;
 }
 
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+.masthead {
+  padding: 6em 0;
+}
+
+.masthead-heading {
+  margin-bottom: 0.1em;
+}
+
+.masthead-intro {
+  margin-top: -0.2em;
+}
+
+.info h1 {
+  text-align: center;
+}
+
+.info-container {
+  text-align:center;
+}
+
+.info {
+  vertical-align:top;
+  display:inline-block;
+  width: 30%;
+  padding-left: 30px;
+  box-sizing:border-box;
+}
+
+.info p {
+  text-align:left;
+}
+
 .text-middle {
   display: inline-block;
   vertical-align: middle;
